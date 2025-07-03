@@ -13,7 +13,8 @@ A bibliography document listing bibliographic entries of literature on maritime 
 Robert J. Rovetto
 
 ## Contribute
-
+[Contribute Bibliography Entries (suggest books and articles)](https://tinyurl.com/mariBiblio-ContributeForm) 
+[Donate via GoGetFunding](https://tinyurl.com/vdk8x2c)
 
 ## Copyright
 (c)2019-2025, Robert J. Rovetto. All rights reserved.
