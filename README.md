@@ -14,7 +14,9 @@ Robert J. Rovetto
 
 ## Contribute
 [Contribute Bibliography Entries via GoogleForm (suggest books and articles)](https://tinyurl.com/mariBiblio-ContributeForm) 
+
 [Contribute via GoogleSheet Spreadsheet](https://purl.org/maritime-sar-bibliography-contribute) 
+
 [Donate via GoGetFunding](https://tinyurl.com/vdk8x2c)
 
 ## Copyright
